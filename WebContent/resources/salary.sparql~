@@ -1,0 +1,4 @@
+PREFIX ecos:<http://kmm.lboro.ac.uk/ecos/1.0#>
+SELECT ?salary WHERE {
+  <Resource> ecos:date ?salary .
+}

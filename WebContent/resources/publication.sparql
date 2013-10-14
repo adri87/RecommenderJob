@@ -1,0 +1,4 @@
+PREFIX ecos:<http://kmm.lboro.ac.uk/ecos/1.0#>
+SELECT ?date WHERE {
+  <Resource> ecos:date ?date .
+}

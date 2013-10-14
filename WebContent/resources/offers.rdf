@@ -1,0 +1,4436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:ecos="http://kmm.lboro.ac.uk/ecos/1.0#"
+xmlns:vcard="http://www.w3.org/2006/vcard/ns#">
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante0">
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante1">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante2">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante3">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante4">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante5">
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante6">
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante7">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante8">
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante9">
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante10">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante11">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante12">
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante13">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante14">
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante15">
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Scrum>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante16">
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante17">
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante18">
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante19">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante20">
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante21">
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante22">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante23">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante24">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante25">
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante26">
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante27">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante28">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante29">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante30">
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante31">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante32">
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante33">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante34">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante35">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante36">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante37">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante38">
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante39">
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante40">
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante41">
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante42">
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante43">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante44">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante45">
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante46">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante47">
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante48">
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Scrum>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante49">
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante50">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante51">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante52">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante53">
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante54">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante55">
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante56">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante57">
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante58">
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante59">
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Scrum>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante60">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante61">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:jQuery>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante62">
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante63">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante64">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante65">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante66">
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante67">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante68">
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante69">
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante70">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:C>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante71">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante72">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante73">
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante74">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante75">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante76">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante77">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante78">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:jQuery>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante79">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante80">
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante81">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante82">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante83">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante84">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante85">
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante86">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:jQuery>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante87">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante88">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante89">
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:jQuery>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante90">
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante91">
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante92">
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante93">
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante94">
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante95">
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante96">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante97">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante98">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante99">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante100">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante101">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante102">
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante103">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante104">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:C>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante105">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante106">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Scrum>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante107">
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante108">
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante109">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante110">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante111">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante112">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante113">
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante114">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante115">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante116">
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante117">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante118">
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Scrum>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante119">
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante120">
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante121">
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Javascript>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante122">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante123">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante124">
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante125">
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante126">
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante127">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante128">
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante129">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante130">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Knockout>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante131">
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante132">
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante133">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante134">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante135">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante136">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante137">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante138">
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante139">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante140">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante141">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante142">
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Scrum>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Linux>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante143">
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Scrum>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante144">
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante145">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante146">
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante147">
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante148">
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante149">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante150">
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante151">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante152">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante153">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante154">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante155">
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante156">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante157">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante158">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante159">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante160">
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante161">
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante162">
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante163">
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante164">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante165">
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante166">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante167">
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante168">
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante169">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante170">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante171">
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:jQuery>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante172">
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante173">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante174">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante175">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:C>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante176">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:jQuery>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante177">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante178">
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Android>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante179">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:jQuery>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante180">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante181">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante182">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Linux>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante183">
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante184">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante185">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante186">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante187">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante188">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante189">
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante190">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante191">
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante192">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante193">
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante194">
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante195">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante196">
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante197">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante198">
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante199">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante200">
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante201">
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Scrum>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante202">
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante203">
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante204">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Linux>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante205">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante206">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante207">
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante208">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante209">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante210">
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante211">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante212">
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante213">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante214">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante215">
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante216">
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante217">
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante218">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante219">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante220">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante221">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante222">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante223">
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante224">
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante225">
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Scrum>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante226">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Linux>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante227">
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante228">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Windows>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Server_administration>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante229">
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:iOS>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante230">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante231">
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Social_skills>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante232">
+<ecos:Skill>
+	<ecos:Knockout>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Knockout>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante233">
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante234">
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante235">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Java>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante236">
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante237">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante238">
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante239">
+<ecos:Skill>
+	<ecos:Linux>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Linux>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante240">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Video_rendering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Video_rendering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante241">
+<ecos:Skill>
+	<ecos:iOS>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:iOS>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Javascript>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante242">
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante243">
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante244">
+<ecos:Skill>
+	<ecos:Android>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Android>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Windows>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Windows>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante245">
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Scrum>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Sparql>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Sparql>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Social_skills>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Social_skills>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante246">
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Software_Engineering>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Software_Engineering>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:jQuery>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:jQuery>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Mobile_developement>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Mobile_developement>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante247">
+<ecos:Skill>
+	<ecos:C>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:C>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Java>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Java>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Photo_editing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Photo_editing>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:PHP>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:PHP>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante248">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:HTML5>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:HTML5>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Server_administration>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#intermediate"/>
+</ecos:Server_administration>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Signal_procesing>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Signal_procesing>
+</ecos:Skill>
+</ecos:Enterprise>
+<ecos:Enterprise rdf:about="http://localhost:8080/LMF-2.6.0/resource/Vacante249">
+<ecos:Skill>
+	<ecos:Semantic_technologies>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#expert"/>
+</ecos:Semantic_technologies>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Javascript>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Javascript>
+</ecos:Skill>
+<ecos:Skill>
+	<ecos:Scrum>
+<ecos:competenceLevel rdf:resource="http://kmm.lboro.ac.uk/ecos/1.0#beginner"/>
+</ecos:Scrum>
+</ecos:Skill>
+</ecos:Enterprise>
+</rdf:RDF>

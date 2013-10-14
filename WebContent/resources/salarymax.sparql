@@ -1,0 +1,6 @@
+PREFIX ecos:<http://kmm.lboro.ac.uk/ecos/1.0#>
+SELECT ?salary WHERE {
+  ?s rdf:type ecos:Product .
+  ?s ecos:salary ?salary .
+}ORDER BY DESC(?salary)
+LIMIT 1
